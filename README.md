@@ -1,6 +1,6 @@
 # bingoyum
 
-A couchapp with a built in editor thanks to [inception](https://github.com/daleharvey/inception), and a visual editor thanks to [createjs](http://createjs.org/). 
+A couchapp with a built in project editor thanks to [inception](https://github.com/daleharvey/inception), and a visual editor thanks to [createjs](http://createjs.org/). 
 
 Plans are to 
 1 "just make it work" 
