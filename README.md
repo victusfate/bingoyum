@@ -5,19 +5,19 @@ A couchapp with a built in editor thanks to [inception](https://github.com/daleh
 Plans are to 
 1 "just make it work" 
 2 extend bingoyum to include other forms of web apps, node.js being a natural first choice
-
-
-======================================
-
-
+  
+  
+  
+  
+  
 # inception readme
 
 Inception is a web based IDE designed to for editing couchapps.
-
-
-======================================
-
-
+  
+  
+  
+  
+  
 # createjs readme
 
 Create - On-site web editing interface
