@@ -12,7 +12,7 @@ Plans are to
 
 # inception readme
 
-Inception is a web based IDE designed to for editing couchapps.
+Inception is a web based IDE designed for editing couchapps.
 <br/>
 <br/>
 <br/>
